@@ -1,0 +1,90 @@
+.navbar {
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding-right: 20px;
+  }
+  
+  .navbar a {
+    float: right;
+    display: block;
+    color: #00b39b;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+   
+  }
+  
+  .navbar a:hover {
+    background: rgb(255, 255, 255);
+    color: black;
+  }
+
+  .logo{
+    padding-left: 50px;
+  }
+
+  .header_image{
+    padding-top: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+  }
+
+  .title{
+    text-align: center;
+    color: #00b39b ;
+    font-weight: 900;
+    align-content: center;
+  }
+
+  .leftpart{
+    text-align: center;
+    padding: 20px;
+    
+  }
+  
+  .rightpart{
+    text-align: center;
+    padding: 20px;
+  }
+
+  .centercontent{
+    background-color: #e5faf8;
+    padding: 100px 10px 20px 10px;
+  }
+
+  #lowercontent{
+    text-align: center;
+    padding: 50px;
+  }
+
+  .columnsection{
+    align-content: center;
+    padding: 10px;
+
+  }
+
+
+  .mt-4{
+    height: 300px;
+  }
+
+  .card-text{
+    font-size: 8px;
+  }
+
+  .card{
+    margin: 10px;
+
+  }
+
+  .lefty_content{
+    align-content: center;
+    justify-content: right;
+
+  }
