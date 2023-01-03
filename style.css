@@ -88,3 +88,72 @@
     justify-content: right;
 
   }
+
+  #boxsaample1 {
+    box-sizing: content-box;  
+    width: 150px;
+    height: 150px;
+    padding: 30px;  
+    background-color: white;
+    margin: 10px;
+  }
+
+  #boxsaample2{
+    box-sizing: content-box;  
+    width: 150px;
+    height: 150px;
+    padding: 30px;  
+    background-color: white;
+    margin: 10px;
+
+  }
+
+  #boxsaample3{
+    box-sizing: content-box;  
+    width: 150px;
+    height: 150px;
+    padding: 30px;  
+    background-color: white;
+    margin: 10px;
+  }
+
+  #boxsaample4{
+    box-sizing: content-box;  
+    width: 150px;
+    height: 150px;
+    padding: 30px;  
+    background-color: white;
+    margin: 10px;
+  }
+
+  .card-title{
+    color: #00b39b ;
+
+  }
+
+  .flag{
+   display: block;
+   width: 60px;
+   margin: auto;
+  }
+
+  .boxes{
+    display:block;
+    width: 60px;
+    margin: auto;
+  }
+
+  .group{
+    display:block;
+    width: 60px;
+    margin: auto;
+
+  }
+
+  .groupofmen{
+    display:block;
+    width: 60px;
+    margin: auto;
+  }
+
+  
